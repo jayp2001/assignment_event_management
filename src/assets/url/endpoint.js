@@ -1,0 +1,1 @@
+export const BACKEND_BASE_URL = "https://nems-backend-ca39b17ab689.herokuapp.com/api/v1/";
